@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - fathur
       - '*.x'
   pull_request:
   schedule:
